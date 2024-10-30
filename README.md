@@ -11,4 +11,4 @@
 * Fetch API
 
 ## Link:
-https://joao-carmassi.github.io/Code-Connect/
+https://joao-carmassi.github.io/code-connect/
